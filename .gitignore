@@ -1,0 +1,10 @@
+# Logs
+logs
+*.log
+
+# Dependencies
+node_modules
+
+# Passwords
+*_password.js
+*_private.sql
