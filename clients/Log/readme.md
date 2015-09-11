@@ -6,4 +6,4 @@ This client logs all messages that are broadcasted to the server, and nothing mo
 
 Command line arguments:
 
-`node main.js SERVER`
+`node log.js SERVER`
