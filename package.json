@@ -17,5 +17,6 @@
   "license": "MIT",
   "dependencies": {
     "ws": "~0.8.0"
-  }
+  },
+  "repository": "https://github.com/Squarific/Game-Of-Everything/"
 }
